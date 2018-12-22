@@ -34,7 +34,7 @@ The fivebalance community will work in a decentralized method, each community me
 
 <h3>Compliled Binaries</h3>
 https://github.com/fivebalanceID/Fivebalance
-
+<br>
 <table>
   <tr>
     <td>RPC Port</td>
@@ -51,6 +51,10 @@ https://github.com/fivebalanceID/Fivebalance
 </table>
 
 <h3>Nodes List</h3>
+
+<br>
+<br>
+<h3>Reward Distribution</h3>
 
 
 
