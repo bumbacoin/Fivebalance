@@ -6,6 +6,8 @@ Users also can get rewards from someone who appreciates them, from their compani
 
 The fivebalance community will work in a decentralized method, each community member can conduct training classes or join study groups in their cities. The Fivebalance developer will start from countries in Southeast Asia and expand to all countries in the world.
 
+<p>More information at&nbsp;<a href="http://www.fivebalance.com" rel="nofollow">Fivebalance.com</a>&nbsp;Visit our ANN thread at&nbsp;<a href="#" rel="nofollow">BitcoinTalk</a></p>
+
 <h3>Coin Specs</h3>
 
 <table>
