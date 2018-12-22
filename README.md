@@ -5,3 +5,22 @@ FiveBalance is the world’s first digital asset for human resource development.
 Users also can get rewards from someone who appreciates them, from their companies, or the advertisers who put their advertisements on 5Balances indicators. FBN rewards can be used to unlock premium indicators or e-book exchange, seminar tickets or the other merchandises in the Human Resource Marketplace.
 
 The fivebalance community will work in a decentralized method, each community member can conduct training classes or join study groups in their cities. The Fivebalance developer will start from countries in Southeast Asia and expand to all countries in the world.
+
+<table>
+  <tr>
+    <td>Algo</td>
+    <td>Scrypt</td>
+  </tr>
+  <tr>
+    <td>Block Time</td>
+    <td>Every Block</td>
+  </tr>
+  <tr>
+    <td>Max Coin Supply</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Block Halving</td>
+    <td></td>
+  </tr>
+</table>
