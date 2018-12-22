@@ -15,6 +15,10 @@ The fivebalance community will work in a decentralized method, each community me
   </tr>
   <tr>
     <td>Block Time</td>
+    <td>60 Seconds</td>
+  </tr>
+  <tr>
+    <td>Difficulty Retargeting</td>
     <td>Every Block</td>
   </tr>
   <tr>
