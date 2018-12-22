@@ -34,6 +34,8 @@ The fivebalance community will work in a decentralized method, each community me
 
 <h3>Compliled Binaries</h3>
 https://github.com/fivebalanceID/Fivebalance
+
+<br>
 <br>
 <table>
   <tr>
