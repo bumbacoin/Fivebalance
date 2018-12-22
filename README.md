@@ -6,6 +6,8 @@ Users also can get rewards from someone who appreciates them, from their compani
 
 The fivebalance community will work in a decentralized method, each community member can conduct training classes or join study groups in their cities. The Fivebalance developer will start from countries in Southeast Asia and expand to all countries in the world.
 
+<h3>Coin Specs</h3>
+
 <table>
   <tr>
     <td>Algo</td>
@@ -24,3 +26,28 @@ The fivebalance community will work in a decentralized method, each community me
     <td></td>
   </tr>
 </table>
+
+
+<h3>Compliled Binaries</h3>
+https://github.com/fivebalanceID/Fivebalance
+
+<table>
+  <tr>
+    <td>RPC Port</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>P2P Port</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Explorer</td>
+    <td></td>
+  </tr>
+</table>
+
+<h3>Nodes List</h3>
+
+
+
+
