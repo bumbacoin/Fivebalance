@@ -58,10 +58,10 @@ public:
         // The characters are rarely used upper ASCII, not valid as UTF-8, and produce
         // a large 4-byte int at any alignment.
         //using HAVW in hex
-        pchMessageStart[0] = 0x48;
-        pchMessageStart[1] = 0x4d;
-        pchMessageStart[2] = 0x43;
-        pchMessageStart[3] = 0x57;
+        pchMessageStart[0] = 0x39;
+        pchMessageStart[1] = 0x4a;
+        pchMessageStart[2] = 0x41;
+        pchMessageStart[3] = 0x55;
         vAlertPubKey = ParseHex("04230591895a2a274a733989e10bd15f9cf7bfc26fcfcriki3d72d584378bd208c59f7809220154bd808b53ccbd422e864f359105f277a30026752fd404a0fc76");
         nDefaultPort = 5555;
         nRPCPort = 5551;
