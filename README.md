@@ -24,12 +24,16 @@ The fivebalance community will work in a decentralized method, each community me
     <td>Every Block</td>
   </tr>
   <tr>
+    <td>Masternode Collateral</td>
+    <td>1 Million</td>
+  </tr>
+  <tr>
     <td>Max Coin Supply</td>
-    <td></td>
+    <td>1 Billion</td>
   </tr>
   <tr>
     <td>Block Halving</td>
-    <td></td>
+    <td>Every Years</td>
   </tr>
 </table>
 
