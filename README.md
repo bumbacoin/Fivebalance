@@ -46,11 +46,11 @@ https://github.com/fivebalanceID/Fivebalance
 <table>
   <tr>
     <td>RPC Port</td>
-    <td></td>
+    <td>5555</td>
   </tr>
   <tr>
     <td>P2P Port</td>
-    <td></td>
+    <td>5551</td>
   </tr>
   <tr>
     <td>Explorer</td>
