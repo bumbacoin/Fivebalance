@@ -4,8 +4,8 @@
 
 #include "pubkey.h"
 
-#include </mnt/Fivebalance/src/secp256k1/include/secp256k1.h>
-#include </mnt/Fivebalance/src/secp256k1/include/secp256k1_recovery.h>
+#include <secp256k1/include/secp256k1.h>
+#include <secp256k1/include/secp256k1_recovery.h>
 
 namespace
 {
